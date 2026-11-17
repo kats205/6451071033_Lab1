@@ -1,0 +1,11 @@
+# Local datasets and archive
+Dataset/
+Dataset-*.zip
+
+# Encrypted course PDF (keep local only)
+Tàu liệu LAB1.pdf
+
+# Jupyter / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
